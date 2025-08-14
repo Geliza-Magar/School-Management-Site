@@ -29,7 +29,8 @@ A responsive and modern school website designed with HTML and CSS, showcasing es
 
 
 ---
-
+## 🚀 Live Demo
+[Click Here to view the project] (https://geliza-magar.github.io/School-Management-Site/)
 
 
 
